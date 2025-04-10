@@ -29,7 +29,7 @@ Bubble Shooter is a popular arcade-style game where players shoot colored bubble
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/Bubble-Shooter-HTML5.git
+   git clone https://github.com/yourusername/Bubble-Shooter.git
    ```
 2. Navigate to the project directory
 3. Open `bubble-shooter.html` in your web browser
@@ -50,13 +50,6 @@ Bubble Shooter is a popular arcade-style game where players shoot colored bubble
 - `bubble-shooter-example.js` - Game logic and mechanics
 - `bubble-sprites.png` - Game assets and sprites
 - `screenshot.png` - Game preview image
-- `LICENSE` - GNU General Public License v3.0
-
-## License
-
-This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
-
-Copyright (C) 2024
 
 ## Credits
 
@@ -81,4 +74,3 @@ For issues or questions, please open an issue in the repository. We'll get back 
 - HTML5 Canvas API
 - JavaScript community
 - Open source game development community
-- Free Software Foundation for the GNU GPL v3.0 license
