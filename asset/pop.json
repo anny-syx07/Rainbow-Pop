@@ -1,0 +1,60 @@
+{
+  "sprites": [
+    {
+      "id": "bubble_blue",
+      "x": 0,
+      "y": 0,
+      "width": 160,
+      "height": 160
+    },
+    {
+      "id": "bubble_red",
+      "x": 170,
+      "y": 0,
+      "width": 160,
+      "height": 160
+    },
+    {
+      "id": "bubble_orange",
+      "x": 330,
+      "y": 0,
+      "width": 170,
+      "height": 160
+    },
+    {
+      "id": "bubble_pink",
+      "x": 0,
+      "y": 160,
+      "width": 160,
+      "height": 160
+    },
+    {
+      "id": "bubble_purple",
+      "x": 170,
+      "y": 160,
+      "width": 160,
+      "height": 160
+    },
+    {
+      "id": "bubble_green",
+      "x": 330,
+      "y": 160,
+      "width": 170,
+      "height": 160
+    },
+    {
+      "id": "bubble_darkblue",
+      "x": 170,
+      "y": 330,
+      "width": 160,
+      "height": 170
+    }
+  ],
+  "meta": {
+    "image": "pop.png",
+    "size": {
+      "w": 500,
+      "h": 500
+    }
+  }
+}
