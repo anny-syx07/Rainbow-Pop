@@ -1,19 +1,19 @@
 {
-  sprites = [
-    { "id": "bubble_blue",     "x": 50,  "y": 27,  "width": 101, "height": 101 },
-    { "id": "bubble_red",      "x": 199, "y": 28,  "width": 102, "height": 101 },
-    { "id": "bubble_orange",   "x": 347, "y": 27,  "width": 102, "height": 102 },
+  "sprites": [
+    {"id": "bubble_blue",   "x": 50, "y": 27, "width": 101, "height": 101},
+    {"id": "bubble_red",    "x": 199, "y": 28, "width": 102, "height": 101},
+    {"id": "bubble_orange", "x": 347, "y": 27, "width": 102, "height": 102},
 
-    { "id": "bubble_pink",     "x": 50,  "y": 195, "width": 101, "height": 101 },
-    { "id": "bubble_purple",   "x": 199, "y": 195, "width": 102, "height": 102 },
-    { "id": "bubble_green",    "x": 347, "y": 194, "width": 103, "height": 103 },
+    {"id": "bubble_pink",     "x": 50, "y": 195, "width": 101, "height": 101},
+    {"id": "bubble_purple",   "x": 199, "y": 195, "width": 102, "height": 102},
+    {"id": "bubble_green",    "x": 347, "y": 194, "width": 103, "height": 103},
 
-    { "id": "bubble_pink2",    "x": 50,  "y": 362, "width": 101, "height": 101 },
-    { "id": "bubble_darkblue", "x": 199, "y": 362, "width": 102, "height": 102 },
-    { "id": "bubble_yellow",   "x": 347, "y": 362, "width": 103, "height": 103 }
-]
+    {"id": "bubble_pink2",      "x": 50, "y": 362, "width": 101, "height": 101},
+    {"id": "bubble_darkblue",   "x": 199, "y": 362, "width": 102, "height": 102},
+    {"id": "bubble_yellow",     "x": 347, "y": 362, "width": 103, "height": 103}
+  ],
   "meta": {
     "image": "pops.png",
-    "size": { "w": 500, "h": 500 }
+    "size": {"w": 500, "h": 500}
   }
 }
